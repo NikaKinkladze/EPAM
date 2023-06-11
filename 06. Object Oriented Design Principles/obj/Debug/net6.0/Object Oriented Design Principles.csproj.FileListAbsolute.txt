@@ -1,0 +1,15 @@
+C:\Users\qinql\OneDrive\Desktop\EPAM projects\Object Oriented Design Principles\bin\Debug\net6.0\Object Oriented Design Principles.exe
+C:\Users\qinql\OneDrive\Desktop\EPAM projects\Object Oriented Design Principles\bin\Debug\net6.0\Object Oriented Design Principles.deps.json
+C:\Users\qinql\OneDrive\Desktop\EPAM projects\Object Oriented Design Principles\bin\Debug\net6.0\Object Oriented Design Principles.runtimeconfig.json
+C:\Users\qinql\OneDrive\Desktop\EPAM projects\Object Oriented Design Principles\bin\Debug\net6.0\Object Oriented Design Principles.dll
+C:\Users\qinql\OneDrive\Desktop\EPAM projects\Object Oriented Design Principles\bin\Debug\net6.0\Object Oriented Design Principles.pdb
+C:\Users\qinql\OneDrive\Desktop\EPAM projects\Object Oriented Design Principles\obj\Debug\net6.0\Object Oriented Design Principles.csproj.AssemblyReference.cache
+C:\Users\qinql\OneDrive\Desktop\EPAM projects\Object Oriented Design Principles\obj\Debug\net6.0\Object Oriented Design Principles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qinql\OneDrive\Desktop\EPAM projects\Object Oriented Design Principles\obj\Debug\net6.0\Object Oriented Design Principles.AssemblyInfoInputs.cache
+C:\Users\qinql\OneDrive\Desktop\EPAM projects\Object Oriented Design Principles\obj\Debug\net6.0\Object Oriented Design Principles.AssemblyInfo.cs
+C:\Users\qinql\OneDrive\Desktop\EPAM projects\Object Oriented Design Principles\obj\Debug\net6.0\Object Oriented Design Principles.csproj.CoreCompileInputs.cache
+C:\Users\qinql\OneDrive\Desktop\EPAM projects\Object Oriented Design Principles\obj\Debug\net6.0\Object Oriented Design Principles.dll
+C:\Users\qinql\OneDrive\Desktop\EPAM projects\Object Oriented Design Principles\obj\Debug\net6.0\refint\Object Oriented Design Principles.dll
+C:\Users\qinql\OneDrive\Desktop\EPAM projects\Object Oriented Design Principles\obj\Debug\net6.0\Object Oriented Design Principles.pdb
+C:\Users\qinql\OneDrive\Desktop\EPAM projects\Object Oriented Design Principles\obj\Debug\net6.0\Object Oriented Design Principles.genruntimeconfig.cache
+C:\Users\qinql\OneDrive\Desktop\EPAM projects\Object Oriented Design Principles\obj\Debug\net6.0\ref\Object Oriented Design Principles.dll

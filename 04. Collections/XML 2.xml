@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vechiles>
+	<Bus>
+		<Engine>
+			<Type>Diesel</Type>
+			<SerialNumber>566318</SerialNumber>
+			<Power>200</Power>
+		</Engine>
+	</Bus>
+	<Truck>
+		<Engine>
+			<Type>Diesel</Type>
+			<SerialNumber>127648</SerialNumber>
+			<Power>300</Power>
+		</Engine>
+	</Truck>
+</Vechiles>

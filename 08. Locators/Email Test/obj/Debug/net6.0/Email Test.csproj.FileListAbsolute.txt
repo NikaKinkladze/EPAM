@@ -1,0 +1,22 @@
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\bin\Debug\net6.0\Email Test.exe
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\bin\Debug\net6.0\Email Test.deps.json
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\bin\Debug\net6.0\Email Test.runtimeconfig.json
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\bin\Debug\net6.0\Email Test.dll
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\bin\Debug\net6.0\Email Test.pdb
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\bin\Debug\net6.0\WebDriver.dll
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\obj\Debug\net6.0\Email Test.csproj.AssemblyReference.cache
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\obj\Debug\net6.0\Email Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\obj\Debug\net6.0\Email Test.AssemblyInfoInputs.cache
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\obj\Debug\net6.0\Email Test.AssemblyInfo.cs
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\obj\Debug\net6.0\Email Test.csproj.CoreCompileInputs.cache
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\obj\Debug\net6.0\Email Test.csproj.CopyComplete
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\obj\Debug\net6.0\Email Test.dll
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\obj\Debug\net6.0\refint\Email Test.dll
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\obj\Debug\net6.0\Email Test.pdb
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\obj\Debug\net6.0\Email Test.genruntimeconfig.cache
+C:\Users\qinql\OneDrive\Desktop\Locators\Email Test\obj\Debug\net6.0\ref\Email Test.dll

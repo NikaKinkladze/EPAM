@@ -1,0 +1,15 @@
+C:\Users\qinql\OneDrive\Desktop\C# pre\Interfaces and Abstract Classes\Interfaces and Abstract Classes\obj\Debug\net6.0\Interfaces and Abstract Classes.csproj.AssemblyReference.cache
+C:\Users\qinql\OneDrive\Desktop\C# pre\Interfaces and Abstract Classes\Interfaces and Abstract Classes\obj\Debug\net6.0\Interfaces and Abstract Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qinql\OneDrive\Desktop\C# pre\Interfaces and Abstract Classes\Interfaces and Abstract Classes\obj\Debug\net6.0\Interfaces and Abstract Classes.AssemblyInfoInputs.cache
+C:\Users\qinql\OneDrive\Desktop\C# pre\Interfaces and Abstract Classes\Interfaces and Abstract Classes\obj\Debug\net6.0\Interfaces and Abstract Classes.AssemblyInfo.cs
+C:\Users\qinql\OneDrive\Desktop\C# pre\Interfaces and Abstract Classes\Interfaces and Abstract Classes\obj\Debug\net6.0\Interfaces and Abstract Classes.csproj.CoreCompileInputs.cache
+C:\Users\qinql\OneDrive\Desktop\C# pre\Interfaces and Abstract Classes\Interfaces and Abstract Classes\bin\Debug\net6.0\Interfaces and Abstract Classes.exe
+C:\Users\qinql\OneDrive\Desktop\C# pre\Interfaces and Abstract Classes\Interfaces and Abstract Classes\bin\Debug\net6.0\Interfaces and Abstract Classes.deps.json
+C:\Users\qinql\OneDrive\Desktop\C# pre\Interfaces and Abstract Classes\Interfaces and Abstract Classes\bin\Debug\net6.0\Interfaces and Abstract Classes.runtimeconfig.json
+C:\Users\qinql\OneDrive\Desktop\C# pre\Interfaces and Abstract Classes\Interfaces and Abstract Classes\bin\Debug\net6.0\Interfaces and Abstract Classes.dll
+C:\Users\qinql\OneDrive\Desktop\C# pre\Interfaces and Abstract Classes\Interfaces and Abstract Classes\bin\Debug\net6.0\Interfaces and Abstract Classes.pdb
+C:\Users\qinql\OneDrive\Desktop\C# pre\Interfaces and Abstract Classes\Interfaces and Abstract Classes\obj\Debug\net6.0\Interfaces and Abstract Classes.dll
+C:\Users\qinql\OneDrive\Desktop\C# pre\Interfaces and Abstract Classes\Interfaces and Abstract Classes\obj\Debug\net6.0\refint\Interfaces and Abstract Classes.dll
+C:\Users\qinql\OneDrive\Desktop\C# pre\Interfaces and Abstract Classes\Interfaces and Abstract Classes\obj\Debug\net6.0\Interfaces and Abstract Classes.pdb
+C:\Users\qinql\OneDrive\Desktop\C# pre\Interfaces and Abstract Classes\Interfaces and Abstract Classes\obj\Debug\net6.0\Interfaces and Abstract Classes.genruntimeconfig.cache
+C:\Users\qinql\OneDrive\Desktop\C# pre\Interfaces and Abstract Classes\Interfaces and Abstract Classes\obj\Debug\net6.0\ref\Interfaces and Abstract Classes.dll
