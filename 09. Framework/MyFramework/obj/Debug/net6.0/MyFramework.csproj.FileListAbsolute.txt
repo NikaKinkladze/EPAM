@@ -1,0 +1,5 @@
+C:\Users\qinql\OneDrive\Desktop\Framework\Framework\Data\obj\Debug\net6.0\MyFramework.csproj.AssemblyReference.cache
+C:\Users\qinql\OneDrive\Desktop\Framework\Framework\Data\obj\Debug\net6.0\MyFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qinql\OneDrive\Desktop\Framework\Framework\Data\obj\Debug\net6.0\MyFramework.AssemblyInfoInputs.cache
+C:\Users\qinql\OneDrive\Desktop\Framework\Framework\Data\obj\Debug\net6.0\MyFramework.AssemblyInfo.cs
+C:\Users\qinql\OneDrive\Desktop\Framework\Framework\Data\obj\Debug\net6.0\MyFramework.csproj.CoreCompileInputs.cache
