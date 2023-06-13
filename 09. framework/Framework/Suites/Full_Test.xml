@@ -1,0 +1,7 @@
+﻿<suite name="Full Test Suite">
+	<test name="Full Test">
+		<classes>
+			<class name="MyFramework.Test.GoogleCloudPricingCalculatorTest" />
+		</classes>
+	</test>
+</suite>

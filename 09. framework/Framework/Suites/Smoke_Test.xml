@@ -1,0 +1,12 @@
+﻿<suite name="Smoke Test Suite">
+	<test name="Smoke Test">
+		<classes>
+			<class name="MyFramework.Test.GoogleCloudPricingCalculatorTest" />
+		</classes>
+		<groups>
+			<run>
+				<include name="smoke" />
+			</run>
+		</groups>
+	</test>
+</suite>
