@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\qinql\\OneDrive\\Desktop\\My framework\\Framework\\Framework.csproj": {}
+    "C:\\Users\\qinql\\OneDrive\\Desktop\\EPAM projects\\EPAM\\09. framework\\Framework\\Framework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\qinql\\OneDrive\\Desktop\\My framework\\Framework\\Framework.csproj": {
+    "C:\\Users\\qinql\\OneDrive\\Desktop\\EPAM projects\\EPAM\\09. framework\\Framework\\Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\qinql\\OneDrive\\Desktop\\My framework\\Framework\\Framework.csproj",
+        "projectUniqueName": "C:\\Users\\qinql\\OneDrive\\Desktop\\EPAM projects\\EPAM\\09. framework\\Framework\\Framework.csproj",
         "projectName": "Framework",
-        "projectPath": "C:\\Users\\qinql\\OneDrive\\Desktop\\My framework\\Framework\\Framework.csproj",
+        "projectPath": "C:\\Users\\qinql\\OneDrive\\Desktop\\EPAM projects\\EPAM\\09. framework\\Framework\\Framework.csproj",
         "packagesPath": "C:\\Users\\qinql\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\qinql\\OneDrive\\Desktop\\My framework\\Framework\\obj\\",
+        "outputPath": "C:\\Users\\qinql\\OneDrive\\Desktop\\EPAM projects\\EPAM\\09. framework\\Framework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

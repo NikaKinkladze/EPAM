@@ -49,7 +49,7 @@ namespace MyFramework.Test
             // Operating System / Software and VM Class are set as default so did not change it 
 
             // Calculator Page actions
-            calculatorPage.EnterNumberOfInstances("4");
+            calculatorPage.EnterNumberOfInstances();
             calculatorPage.EnterSeries();
             calculatorPage.EnterMachineType();
             calculatorPage.AddGPUs();

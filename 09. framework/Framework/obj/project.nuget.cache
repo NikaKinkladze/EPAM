@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+ys2LGA/EEArYdwnqVEIjZFOR0AGIvu18M3LZrY6vRbA+7/YGS/qSE4K8T4fCg1uYmcSpzgBMpkUnRZqu0b6nA==",
+  "dgSpecHash": "EHDl6D969QMR7ZdSJAjw1jE4OYl0xakJE9MwaQTc/r/MCKgiD0+XxtJOl+vqSMAOlXZquNyKK5Cx+Lh9SFbUQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\qinql\\OneDrive\\Desktop\\My framework\\Framework\\Framework.csproj",
+  "projectFilePath": "C:\\Users\\qinql\\OneDrive\\Desktop\\EPAM projects\\EPAM\\09. framework\\Framework\\Framework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\qinql\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
     "C:\\Users\\qinql\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
