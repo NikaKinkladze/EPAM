@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\qinql\\OneDrive\\Desktop\\C# pre\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes.csproj",
+      "projectUniqueName": "C:\\Users\\qinql\\OneDrive\\Desktop\\EPAM projects\\EPAM\\03. Interfaces and Abstract Classes\\Interfaces and Abstract Classes.csproj",
       "projectName": "Interfaces and Abstract Classes",
-      "projectPath": "C:\\Users\\qinql\\OneDrive\\Desktop\\C# pre\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes.csproj",
+      "projectPath": "C:\\Users\\qinql\\OneDrive\\Desktop\\EPAM projects\\EPAM\\03. Interfaces and Abstract Classes\\Interfaces and Abstract Classes.csproj",
       "packagesPath": "C:\\Users\\qinql\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\qinql\\OneDrive\\Desktop\\C# pre\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes\\obj\\",
+      "outputPath": "C:\\Users\\qinql\\OneDrive\\Desktop\\EPAM projects\\EPAM\\03. Interfaces and Abstract Classes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
